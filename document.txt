@@ -4,4 +4,6 @@ Hello we are on master
 This is line 1
 We are on feature branch
 This is line 2
+We are back on master
+This is line 3
 
